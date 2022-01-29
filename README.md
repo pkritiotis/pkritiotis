@@ -8,6 +8,11 @@
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
 <!-- BLOG-POST-LIST:START -->
+- [A systematic approach to Technical Requirement Analysis](http://pkritiotis.io/technical-requirement-analysis-systematic-approach/)
+- [Outbox pattern - Why, How and Implementation Challenges](http://pkritiotis.io/outbox-pattern-implementation-challenges/)
+- [Designing functions that return potentially absent values in Go](http://pkritiotis.io/go-design-functions-returning-absent-values/)
+- [Clean Architecture in Go](http://pkritiotis.io/clean-architecture-in-golang/)
+- [My Hello World](http://pkritiotis.io/my-hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 
