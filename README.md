@@ -1,7 +1,6 @@
 👋 Hi, I’m Panayiotis Kritiotis
-- :monocle_face: &nbsp;I’m interested in **large scale, distributed web services**
+- :monocle_face: &nbsp;I’m interested in building **large scale, distributed web services**
 - ✨ &nbsp;I'm fascinated by **sofware and architecture design**
-- 🌱 &nbsp;I’m currently learning **Go**
 - :writing_hand:&nbsp;&nbsp;I'm writing about technical stuff in my personal blog [pkritiotis.io](https://pkritiotis.io)
 - 📫 &nbsp;You can reach me at contact@pkritiotis.io or [@pkritiotis](https://twitter.com/pkritiotis)
 
