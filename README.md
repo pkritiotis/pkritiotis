@@ -7,11 +7,11 @@
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
 <!-- BLOG-POST-LIST:START -->
+- [Implementing the Outbox pattern in go](http://pkritiotis.io/outbox-pattern-in-go/)
 - [Software Engineering Philosophy: Tradeoffs and Quality](http://pkritiotis.io/software-engineering-philosophy-tradeoffs-quality/)
 - [A systematic approach to Technical Requirement Analysis](http://pkritiotis.io/technical-requirement-analysis-systematic-approach/)
 - [Outbox pattern - Why, How and Implementation Challenges](http://pkritiotis.io/outbox-pattern-implementation-challenges/)
 - [Designing functions that return potentially absent values in Go](http://pkritiotis.io/go-design-functions-returning-absent-values/)
-- [Clean Architecture in Go](http://pkritiotis.io/clean-architecture-in-golang/)
 <!-- BLOG-POST-LIST:END -->
 
 
