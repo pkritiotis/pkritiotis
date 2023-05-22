@@ -7,7 +7,7 @@
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
 <!-- BLOG-POST-LIST:START -->
-- [Planning, adaptability, and feedback loops in software engineering](http://pkritiotis.io/feedback-loops/)
+- [Feedback loops in software engineering](http://pkritiotis.io/feedback-loops/)
 - [Implementing a simple, generic mediator pattern in go](http://pkritiotis.io/mediator-pattern-in-go/)
 - [Software Documentation - Value, Misconceptions, Common Pitfalls, and Essentials](http://pkritiotis.io/software-documentation/)
 - [Implementing the Outbox pattern in go](http://pkritiotis.io/outbox-pattern-in-go/)
