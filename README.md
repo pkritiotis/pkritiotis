@@ -7,7 +7,7 @@
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
 <!-- BLOG-POST-LIST:START -->
-- [Diving into a New Writing Journey](http://pkritiotis.io/diving-into-a-new-writing-journey/)
+- [Refreshing My Writing Journey](http://pkritiotis.io/refreshing-my-writing-journey/)
 - [Engineering Execution - My “Aha Moments” as an Engineering Manager](http://pkritiotis.io/engineering-execution-aha-moments/)
 - [A pragmatic approach to technical decision-making in fast-paced environments](http://pkritiotis.io/technical-decision-making-fast-paced-environments/)
 - [Feedback loops in software engineering](http://pkritiotis.io/feedback-loops/)
