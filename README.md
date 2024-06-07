@@ -1,8 +1,7 @@
 👋 Hi, I’m Panayiotis Kritiotis
-- :monocle_face: &nbsp;I’m interested in building **large scale, distributed web services**
-- ✨ &nbsp;I'm fascinated by **sofware and architecture design**
-- :writing_hand:&nbsp;&nbsp;I'm writing about technical stuff in my personal blog [pkritiotis.io](https://pkritiotis.io)
-- 📫 &nbsp;You can reach me at contact@pkritiotis.io or [@pkritiotis](https://twitter.com/pkritiotis)
+- :writing_hand:&nbsp;&nbsp;I'm writing about Engineering Leadership and Software Engineering at [pkritiotis.io](https://pkritiotis.io)
+- ✨ &nbsp;I'm fascinated by Engineering Leadership, and sofware and architecture
+- 📫 &nbsp;You can reach me at [@pkritiotis](https://twitter.com/pkritiotis)
 
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
