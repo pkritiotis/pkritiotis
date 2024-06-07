@@ -6,11 +6,11 @@
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
 <!-- BLOG-POST-LIST:START -->
+- [Understanding and Achieving Your Goal as an Engineering Manager: 3 Fundamental Principles](http://pkritiotis.io/engineering-manager-goal/)
 - [Refreshing My Writing Journey](http://pkritiotis.io/refreshing-my-writing-journey/)
-- [Engineering Execution - My “Aha Moments” as an Engineering Manager](http://pkritiotis.io/engineering-execution-aha-moments/)
-- [A pragmatic approach to technical decision-making in fast-paced environments](http://pkritiotis.io/technical-decision-making-fast-paced-environments/)
+- [5 Lessons That Transformed How I Approach Execution as an Engineering Manager](http://pkritiotis.io/engineering-execution-aha-moments/)
+- [8 Tips for Pragmatic Technical Decision-Making in Fast-Paced Environments](http://pkritiotis.io/technical-decision-making-fast-paced-environments/)
 - [Feedback loops in software engineering](http://pkritiotis.io/feedback-loops/)
-- [Implementing a simple, generic mediator pattern in go](http://pkritiotis.io/mediator-pattern-in-go/)
 <!-- BLOG-POST-LIST:END -->
 
 
