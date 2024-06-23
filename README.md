@@ -6,11 +6,11 @@
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
 <!-- BLOG-POST-LIST:START -->
+- [3 Major Fallacies Engineers Make in Architecture Decisions](http://pkritiotis.io/three-fallacies-architecture/)
 - [5 Essential Prioritization Frameworks for Engineering Managers](http://pkritiotis.io/engineering-management-prioritization-frameworks/)
 - [Understanding and Achieving Your Goal as an Engineering Manager: 3 Fundamental Principles](http://pkritiotis.io/engineering-manager-goal-3-principles/)
 - [Refreshing My Writing Journey](http://pkritiotis.io/refreshing-my-writing-journey/)
 - [5 Lessons That Transformed How I Approach Execution as an Engineering Manager](http://pkritiotis.io/engineering-execution-aha-moments/)
-- [8 Tips for Pragmatic Technical Decision-Making in Fast-Paced Environments](http://pkritiotis.io/technical-decision-making-fast-paced-environments/)
 <!-- BLOG-POST-LIST:END -->
 
 
