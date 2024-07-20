@@ -6,11 +6,11 @@
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
 <!-- BLOG-POST-LIST:START -->
+- [Agile: Embrace the Philosophy, Not Rigid Framework Rules](http://pkritiotis.io/agile-philosophy-over-rigidity/)
 - [3 Major Fallacies Engineers Make in Architecture Decisions](http://pkritiotis.io/three-major-fallacies-architecture-decisions/)
 - [5 Essential Prioritization Frameworks for Engineering Managers](http://pkritiotis.io/engineering-management-prioritization-frameworks/)
 - [Understanding and Achieving Your Goal as an Engineering Manager: 3 Fundamental Principles](http://pkritiotis.io/engineering-manager-goal-3-principles/)
 - [Refreshing My Writing Journey](http://pkritiotis.io/refreshing-my-writing-journey/)
-- [5 Lessons That Transformed How I Approach Execution as an Engineering Manager](http://pkritiotis.io/engineering-execution-aha-moments/)
 <!-- BLOG-POST-LIST:END -->
 
 
