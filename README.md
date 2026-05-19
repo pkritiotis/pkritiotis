@@ -6,11 +6,11 @@
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
 <!-- BLOG-POST-LIST:START -->
-- [Domain-Driven Design in Go: Designing Entities - What Works, What Breaks, and What’s Overkill](http://pkritiotis.io/ddd-entity-in-go/)
-- [Agile: Embrace the Philosophy, Not Rigid Framework Rules](http://pkritiotis.io/agile-philosophy-over-rigidity/)
-- [3 Major Fallacies Engineers Make in Architecture Decisions](http://pkritiotis.io/three-major-fallacies-architecture-decisions/)
-- [5 Essential Prioritization Frameworks for Engineering Managers](http://pkritiotis.io/engineering-management-prioritization-frameworks/)
-- [Understanding and Achieving Your Goal as an Engineering Manager: 3 Fundamental Principles](http://pkritiotis.io/engineering-manager-goal-3-principles/)
+- [Staying Technical as an Engineering Manager](https://pkritiotis.io/staying-technical-as-an-engineering-manager/)
+- [Redesigning my Website with an AI Partner: What a Joy](https://pkritiotis.io/redesigning-my-website-with-ai/)
+- [Domain-Driven Design in Go: Designing Entities - What Works, What Breaks, and What’s Overkill](https://pkritiotis.io/ddd-entity-in-go/)
+- [Agile: Embrace the Philosophy, Not Rigid Framework Rules](https://pkritiotis.io/agile-philosophy-over-rigidity/)
+- [3 Major Fallacies Engineers Make in Architecture Decisions](https://pkritiotis.io/three-major-fallacies-architecture-decisions/)
 <!-- BLOG-POST-LIST:END -->
 
 
