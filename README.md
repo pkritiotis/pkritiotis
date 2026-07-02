@@ -6,11 +6,11 @@
 
 :page_facing_up:&nbsp;**Latest Blog posts**<br>
 <!-- BLOG-POST-LIST:START -->
+- [Caching Is Not Free](https://pkritiotis.io/caching-is-not-free/)
 - [Staying Technical as an Engineering Manager](https://pkritiotis.io/staying-technical-as-an-engineering-manager/)
 - [Redesigning my Website with an AI Partner: What a Joy](https://pkritiotis.io/redesigning-my-website-with-ai/)
 - [Domain-Driven Design in Go: Designing Entities - What Works, What Breaks, and What’s Overkill](https://pkritiotis.io/ddd-entity-in-go/)
 - [Agile: Embrace the Philosophy, Not Rigid Framework Rules](https://pkritiotis.io/agile-philosophy-over-rigidity/)
-- [3 Major Fallacies Engineers Make in Architecture Decisions](https://pkritiotis.io/three-major-fallacies-architecture-decisions/)
 <!-- BLOG-POST-LIST:END -->
 
 
